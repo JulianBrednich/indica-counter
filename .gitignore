@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Test footage and model files are not part of the repo
+videos/
+images/
+*.mov
+*.MOV
+*.mp4
+*.task
